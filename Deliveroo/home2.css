@@ -1,0 +1,20 @@
+body {
+    background-color: #00CDBC;
+   
+}
+
+.landing{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#logo{
+    width: 6vh;
+}
+
+.header{
+    
+}
